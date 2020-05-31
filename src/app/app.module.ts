@@ -22,7 +22,7 @@ import { FormsModule } from '@angular/forms';
     BrowserModule,
     APP_ROUTES,
     PagesModule,
-    FormsModule
+    FormsModule,
   ],
   providers: [],
   exports: [
